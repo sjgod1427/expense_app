@@ -1,6 +1,6 @@
 # expense_app
 
-A new Flutter project.
+A new Flutter project. Basic project on how to track expenses using an app
 
 ## Getting Started
 
