@@ -1,7 +1,7 @@
 # Expense Tracker
 The Expense Tracker app helps users record and categorize their expenses. With dynamic bar animations for visualization, it allows users to track spending effectively.
 
-#Features
+# Features
 Expense Recording: Easily add and categorize expenses.
 Dynamic Visualization: View expenses with animated bar charts.
 Categorization: Classify expenses by type (e.g., leisure, travel, work).
@@ -12,7 +12,7 @@ Charts Flutter: For displaying dynamic visualizations.
 Getting Started
 To get started with the app, follow these steps:
 
-#Clone the repository:
+# Clone the repository:
 
 bash
 Copy code
@@ -33,7 +33,7 @@ bash
 Copy code
 flutter run
 
-#Contributing
+# Contributing
 Feel free to contribute to the project! Open an issue or submit a pull request.
 
 #License
