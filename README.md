@@ -1,16 +1,39 @@
-# expense_app
+# Expense Tracker
+The Expense Tracker app helps users record and categorize their expenses. With dynamic bar animations for visualization, it allows users to track spending effectively.
 
-A new Flutter project. Basic project on how to track expenses using an app
+Features
+Expense Recording: Easily add and categorize expenses.
+Dynamic Visualization: View expenses with animated bar charts.
+Categorization: Classify expenses by type (e.g., leisure, travel, work).
+Technologies Used
+Flutter: For building the cross-platform mobile application.
+Firebase: For cloud storage of expense data.
+Charts Flutter: For displaying dynamic visualizations.
+Getting Started
+To get started with the app, follow these steps:
 
-## Getting Started
+Clone the repository:
 
-This project is a starting point for a Flutter application.
+bash
+Copy code
+git clone https://github.com/sjgod1427/expense-tracker.git
+Navigate to the project directory:
 
-A few resources to get you started if this is your first Flutter project:
+bash
+Copy code
+cd expense-tracker
+Install the dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+bash
+Copy code
+flutter pub get
+Run the app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+bash
+Copy code
+flutter run
+Contributing
+Feel free to contribute to the project! Open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
