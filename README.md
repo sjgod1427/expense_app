@@ -36,5 +36,5 @@ flutter run
 # Contributing
 Feel free to contribute to the project! Open an issue or submit a pull request.
 
-#License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
